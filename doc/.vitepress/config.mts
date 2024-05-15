@@ -24,7 +24,7 @@ export default defineConfig({
                 items: [
                     {
                         text: '0开篇：知识体系与小册格局',
-                        link: '/前端性能优化原理与实践/0开篇：知识体系与小册格局.md',
+                        link: '/前端性能优化原理与实践/0开篇：知识体系与小册格局.',
                     },
                     { text: 'External Link', link: 'https://google.com' },
                     { text: 'External Link', link: 'https://google.com' },
